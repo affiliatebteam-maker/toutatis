@@ -27,13 +27,13 @@ python3 setup.py install
 ### Find information from a username
 
 ```
-toutatis -u username -s instagramsessionid
+toutatis -siddhi_b_03 -s instagramsessionid
 ```
 
 ### Find information from an Instagram ID
 
 ```
-toutatis -i instagramID -s instagramsessionid
+toutatis - siddhi_b_03 -s instagramsessionid
 ```
 
 ## 📈 Example
@@ -48,7 +48,7 @@ Number of posts        : x
 Number of tag in posts : x
 External url           : http://example.com
 IGTV posts             : x
-Biography              : example biography
+Biography    in         : example biography
 Public Email           : public@example.com
 Public Phone           : +00 0 00 00 00 00
 Obfuscated email       : me********s@examplemail.com
